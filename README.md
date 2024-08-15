@@ -1,4 +1,4 @@
-# **The energy consumption management (ECM) for the integrated heat pipe cooling (IHPC) systems**
+# **Digital twin-driven energy consumption management of integrated heat pipe cooling system for a data center**
 ## Running screenshots show
 - **The structure of proposed PINN model**
 - <img src="img/The structure of proposed PINN model.jpg" width="400" />
