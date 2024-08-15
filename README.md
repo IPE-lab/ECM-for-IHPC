@@ -1,7 +1,7 @@
 # **Digital twin-driven energy consumption management of integrated heat pipe cooling system for a data center**
 ## Running screenshots show
-- **The structure of proposed PINN model**
-- <img src="img/The structure of proposed PINN model.jpg" width="400" />
+- **ECM digital twin architecture for an IHPC system**
+- <img src="img/ECM digital twin architecture for an IHPC system.jpg" width="400" />
 ***
 ## Paper Support
 - Original information: Digital twin-driven energy consumption management of integrated heat pipe cooling system for a data center
